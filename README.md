@@ -1,2 +1,2 @@
 # patiStore
- Patika Store App with React Native
+ Patika Store App w/React Native
